@@ -9,7 +9,7 @@ profile:
   image: matcha-cat.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Applied Mathematics Undergraduate</p>
+    <p>Applied Mathematics</p>
     <p>Columbia University</p>
     <p>New York, NY</p>
 
@@ -22,13 +22,14 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a sophomore in Applied Mathematics and Computer Science at Columbia University, working on the intersection of diffusion models and causal inference. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am a research assistant at Columbia University Department of Statistics under Prof. [Chenyang Zhong](https://sites.google.com/view/cyzhong/home?pli=1&authuser=1), and I also work with [Baohua Yan](https://bhyan.com) (PhD student). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am excited to connect and discuss potential opportunities! 
+

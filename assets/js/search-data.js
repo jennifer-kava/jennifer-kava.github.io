@@ -107,18 +107,25 @@ ninja.data = [{
           window.open("mailto:%6A%6B%34%39%34%34@%63%6F%6C%75%6D%62%69%61.%65%64%75", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/jennifer-kava", "_blank");
+        },
+      },{
         id: 'social-instagram',
         title: 'Instagram',
         section: 'Socials',
         handler: () => {
-          window.open("https://instagram.com/https://www.instagram.com/jennifeliciava/", "_blank");
+          window.open("https://instagram.com/jennifeliciava", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/jennifer-kava/", "_blank");
+          window.open("https://www.linkedin.com/in/jennifer-kava", "_blank");
         },
       },{
         id: 'social-custom_social',

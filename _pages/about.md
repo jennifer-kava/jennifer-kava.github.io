@@ -6,10 +6,10 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: matcha-cat.jpg
+  image: profile-picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Applied Mathematics</p>
+    <p>Applied Mathematics and Computer Science</p>
     <p>Columbia University</p>
     <p>New York, NY</p>
 

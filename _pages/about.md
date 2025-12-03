@@ -9,7 +9,7 @@ profile:
   image: profile-picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Applied Mathematics and Computer Science</p>
+    <p></p>
     <p>Columbia University</p>
     <p>New York, NY</p>
 
@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a sophomore in Applied Mathematics and Computer Science at Columbia University, working on the intersection of diffusion models and causal inference. 
+I am a sophomore studying Applied Mathematics and Computer Science at Columbia University, working on the intersection of diffusion models and causal inference. My research interests lie in theoretical generative models, optiimization, probabilistic inference, machine learning and physical simulation. 
 
-Currently, I am a research assistant at Columbia University Department of Statistics under Prof. [Chenyang Zhong](https://sites.google.com/view/cyzhong/home?pli=1&authuser=1), and I also work with [Baohua Yan](https://bhyan.com) (PhD student). 
+Currently, I am a research assistant at Columbia University Department of Statistics under Prof. [Chenyang Zhong](https://sites.google.com/view/cyzhong/home?pli=1&authuser=1), and I also work on projects with [Baohua Yan](https://bhyan.com) (PhD student). 
 
-I am excited to connect and discuss potential opportunities! 
+This site (a work in progress!) collects information related to my academic, research and professional activities. I am excited to connect and discuss potential opportunities! 
 

@@ -9,7 +9,7 @@ profile:
   image: profile-picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Photo taken in Central Park, New York.</p>
+    <p>In Central Park, NYC.</p>
     <p></p>
     <p></p>
 

@@ -7,7 +7,7 @@ first_name: Jennifer
 middle_name: 
 last_name: Kava
 contact_note: >
- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=d0e3ff&w=180&t=tt&d=hAhQOHqU2FVtm9uMwus9OV8lnBIrvOHL887xnhWMC5I&co=08185c&cmo=f4db8c&cmn=b5bc86'></script>
+ <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=f3fbff&w=200&t=tt&d=hAhQOHqU2FVtm9uMwus9OV8lnBIrvOHL887xnhWMC5I&co=08185c&cmo=f4db8c&cmn=b5bc86'></script>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >

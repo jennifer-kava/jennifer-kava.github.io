@@ -27,9 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a sophomore studying Applied Mathematics and Computer Science at Columbia University, working on the intersection of diffusion models and causal inference. My research interests lie in theoretical generative models, optiimization, probabilistic inference, machine learning and physical simulation. 
+I am a sophomore studying Applied Mathematics and Computer Science at Columbia University. My research interests lie in theoretical generative models, optimization, probabilistic inference, machine learning and physical simulation. 
 
-Currently, I am a research assistant at Columbia University Department of Statistics under Prof. [Chenyang Zhong](https://sites.google.com/view/cyzhong/home?pli=1&authuser=1), and I also work on projects with [Baohua Yan](https://bhyan.com) (PhD student). 
+Currently, I am exploring structural causal models in diffusion-based counterfactual generation under the guidance of Prof. [Chenyang Zhong](https://sites.google.com/view/cyzhong/home?pli=1&authuser=1), and I also work on image generation with [Baohua Yan](https://bhyan.com) (PhD student). 
 
-This site (a work in progress!) collects information related to my academic, research and professional activities. I am excited to connect and discuss potential opportunities! 
+Beyond academics, I enjoy coding and learning new languages. My projects can be found in the Projects tab, [linked here](https://jennifer-kava.github.io/projects/)
 
+This site (a work in progress!) collects information related to my academic, research and professional activities. I am excited to connect and discuss potential opportunities!

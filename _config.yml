@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Jennifer Kava # the website title (if blank, full name will be used instead)
-first_name: <strong> Jennifer </strong>
+title: <strong> Jennifer Kava </strong> # the website title (if blank, full name will be used instead)
+first_name: Jennifer
 middle_name: 
 last_name: Kava
 contact_note: >

@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a sophomore studying Applied Mathematics and Computer Science at Columbia University. My research interests lie in graph neural networks, theoretical generative models, optimization, probabilistic inference, and physical simulation.
+I am a sophomore studying Applied Mathematics and Computer Science at Columbia University. My research interests lie in theoretical generative models, optimization, probabilistic inference, and physical simulation.
 
 Currently, I am exploring structural causal models in diffusion-based counterfactual generation under the guidance of Prof. [Chenyang Zhong](https://sites.google.com/view/cyzhong/home?pli=1&authuser=1), and I also work on image generation with [Baohua Yan](https://bhyan.com) (PhD student). 
 
